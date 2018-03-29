@@ -1,0 +1,21 @@
+<style> TD { mso-number-format:General } </style><div>
+	<table cellspacing="0" rules="all" border="1" style="border-color:LightGrey;border-collapse:collapse;">
+		<tr>
+			<th scope="col" style="border-color:LightGrey;border-width:1px;border-style:solid;width:200px;">एसएआर</th><th scope="col" style="border-color:LightGrey;border-width:1px;border-style:solid;width:200px;">वितरक</th><th scope="col" style="border-color:LightGrey;border-width:1px;border-style:solid;width:200px;">ग्राहक का नाम</th><th scope="col" style="border-color:LightGrey;border-width:1px;border-style:solid;width:200px;">वितरक बिक्री प्रतिनिधि</th><th scope="col" style="border-color:LightGrey;border-width:1px;border-style:solid;width:200px;">विनिर्देशों की संख्या</th>
+		</tr><tr style="background-color:White;">
+			<td style="border-color:LightGrey;border-width:1px;border-style:solid;">admnipans</td><td style="border-color:LightGrey;border-width:1px;border-style:solid;">Adamac Marine Services Ltd</td><td style="border-color:LightGrey;border-width:1px;border-style:solid;">ABC Customer</td><td style="border-color:LightGrey;border-width:1px;border-style:solid;">jotaddepv</td><td align="right" style="border-color:LightGrey;border-width:1px;border-style:solid;">1</td>
+		</tr><tr style="background-color:White;">
+			<td style="border-color:LightGrey;border-width:1px;border-style:solid;">admnipans</td><td style="border-color:LightGrey;border-width:1px;border-style:solid;">Adamac Marine Services Ltd</td><td style="border-color:LightGrey;border-width:1px;border-style:solid;">Customer Test</td><td style="border-color:LightGrey;border-width:1px;border-style:solid;">hurtif</td><td align="right" style="border-color:LightGrey;border-width:1px;border-style:solid;">1</td>
+		</tr><tr style="background-color:White;">
+			<td style="border-color:LightGrey;border-width:1px;border-style:solid;">admnipans</td><td style="border-color:LightGrey;border-width:1px;border-style:solid;">Adamac Marine Services Ltd</td><td style="border-color:LightGrey;border-width:1px;border-style:solid;">Customer Test</td><td style="border-color:LightGrey;border-width:1px;border-style:solid;">jotaddepv</td><td align="right" style="border-color:LightGrey;border-width:1px;border-style:solid;">1</td>
+		</tr><tr style="background-color:White;">
+			<td style="border-color:LightGrey;border-width:1px;border-style:solid;">admnipans</td><td style="border-color:LightGrey;border-width:1px;border-style:solid;">Adamac Marine Services Ltd</td><td style="border-color:LightGrey;border-width:1px;border-style:solid;">Test Customer</td><td style="border-color:LightGrey;border-width:1px;border-style:solid;">hurtif</td><td align="right" style="border-color:LightGrey;border-width:1px;border-style:solid;">2</td>
+		</tr><tr style="background-color:White;">
+			<td style="border-color:LightGrey;border-width:1px;border-style:solid;">admnipans</td><td style="border-color:LightGrey;border-width:1px;border-style:solid;">ACTIF</td><td style="border-color:LightGrey;border-width:1px;border-style:solid;">Marine customer</td><td style="border-color:LightGrey;border-width:1px;border-style:solid;">jotbjonnc</td><td align="right" style="border-color:LightGrey;border-width:1px;border-style:solid;">2</td>
+		</tr><tr style="background-color:White;">
+			<td style="border-color:LightGrey;border-width:1px;border-style:solid;">admnipans</td><td style="border-color:LightGrey;border-width:1px;border-style:solid;">KORMATEK</td><td style="border-color:LightGrey;border-width:1px;border-style:solid;">LASSARAT</td><td style="border-color:LightGrey;border-width:1px;border-style:solid;">jot10269</td><td align="right" style="border-color:LightGrey;border-width:1px;border-style:solid;">3</td>
+		</tr><tr style="background-color:White;">
+			<td style="border-color:LightGrey;border-width:0px;">&nbsp;</td><td style="border-color:LightGrey;border-width:0px;">&nbsp;</td><td align="right" colspan="2" style="border-color:LightGrey;border-width:0px;">कुल विनिर्देशों का निर्माण</td><td align="right" style="border-color:LightGrey;border-width:0px;">=SUBTOTAL(9,E2:E7)</td>
+		</tr>
+	</table>
+</div>
